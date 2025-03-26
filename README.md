@@ -15,6 +15,7 @@
 
 [<img align="left" alt="Jason | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img aligh="left" alt="JCProfessional | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 [linkedin]: https://linkedin.com/in/Jason-Curtis-188150352
 [twitter]: https://x.com/JCProfessional
 
