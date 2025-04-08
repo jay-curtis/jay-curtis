@@ -6,7 +6,7 @@
   - [osTicket: Starting Requirements and Installation](https://github.com/jay-curtis/osticket-prereqs)
   - [osTicket: Post-Install Arrangements](https://github.com/jay-curtis/post-install-config)
 - <b>Microsoft Azure</b>
-  - [Network Security Groups and Examination of Network Protocols](https://github.com/jay-curtis/azure-network-protocols)
+  - [Network Security Groups and Examinations of Azure Virtual Machine Communications](https://github.com/jay-curtis/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
