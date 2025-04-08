@@ -4,9 +4,9 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jay-curtis/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/jay-curtis/post-install-config)
+  - [osTicket: Post-Install Arrangements](https://github.com/jay-curtis/post-install-config)
 - <b>Microsoft Azure</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jay-curtis/azure-network-protocols)
+  - [Network Security Groups and Inspecting Network Protocols](https://github.com/jay-curtis/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
